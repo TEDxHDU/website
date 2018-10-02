@@ -1,31 +1,8 @@
-- name: ¡Hola! Connect June 2017
-  short_name: Connect Jun 17'
-  type: connect
-  city: 浙江宁波
-  date: 2017-06-28
-  slogan: 寻觅自我的亮光 解锁尘封的禁锢
-  slug: holaconnect_jun17
-- name: ¡Hola! Conf 2017
-  short_name: Conf 2017
+- name: TEDxHDU Conf 2018
+  short_name: 2018
   type: conf
-  city: 浙江宁波
-  location: 浙江省宁波市银苑大酒店
-  date: 2017-08-08
-  slogan: 寻觅自我的亮光 解锁尘封的禁锢
-  slug: holaconf2017
-- name: ¡Hola! Connect Autumn 2017
-  short_name: Connect Autumn 2017
-  type: connect
   city: 浙江杭州
-  location: 在线直播
-  date: 2017-11-25
-  slogan: 说走就走的创业？
-  slug: holaconnect_aut17
-- name: ¡Hola! Conf 2018
-  short_name: Conf 2018
-  type: conf
-  city: 江苏扬州
-  location: 江苏扬州
-  date: 2018-08-04
-  slogan: Not Found. Yet.
-  slug: holaconf2018
+  location: 杭州电子科技大学
+  date: 2018-12-25
+  slogan: Out of Scope
+  slug: conf2018

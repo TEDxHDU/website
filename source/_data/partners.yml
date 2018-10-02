@@ -1,9 +1,7 @@
-- name: 洛谷
-  url: https://www.luogu.org?utm_source=ihola
-  img: partners/luogu.png
-- name: YouthDelivery
-  url: \#
-  img: partners/yd.jpg
-- name: 唯 ID
-  url: https://onlyid.net?utm_source=ihola
-  img: partners/onlyid.png
+- name: 杭州电子科技大学
+  url: https://www.hdu.edu.cn?utm_source=tedxhdu
+  img: http://www.hdu.edu.cn/asset/home/images/logo.png
+- name: ¡Hola! 青少年活动
+  url: https://ihola.one
+  img: https://ihola.one/static/images/hola.svg
+

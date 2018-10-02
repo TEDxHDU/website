@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ¡Hola!
-subtitle: 中国青少年活动
-description: ¡Hola! 是一个青少年组织，主办 ¡Hola! Conf 和 ¡Hola! Meetup 等活动。
+title: TEDxHDU
+subtitle: TEDxHDU 来自杭州电子科技大学。
+description: TEDxHDU 是由杭州电子科技大学的独立活动组织的 TEDx 活动。
 author:
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ihola.one
+url: https://tedx.hdu.party
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
@@ -65,14 +65,34 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: holakit
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/teamhola/website
-  branch: built
-  name: Holabot
-  email: email_is_not_ready_at_this_time@ihola.one
+theme_config:
+  widgets:
+    - recent_posts
+  head_inject: <link rel="stylesheet" href="/static/css/tedxhdu.css">
+  menu:
+    首页: /
+    团队: /team
+    常见问题: /faq
+  footer_links:
+    活动:
+      Conf 2018: /events/conf2018.html
+    参与:
+      听众报名: /coming_soon.html
+      成为或推荐讲者: /coming_soon.html
+      合作伙伴与赞助商: /partners/
+      活动安全免责声明: /safety-notice/
+    关于:
+      TED 与 TEDx: /about.html
+      成员墙: /team/
+      常见问题: /faq/
+  footer_line: |
+    This independent TEDx event is operated under license from TED. <a href="https://www.ted.com/tedx/events/31541">Official Event Page on TED.com</a><br>
+    网站的设计与运行由 <a href="https://ihola.one">¡Hola! 青少年活动</a>提供。<br>
+    本组织及其活动独立于任何第三方，包括但不限于学校、社团、企业和有关机关部门。
+  faq_links:
+    常规问题: /faq/
+    TED 与 TEDx: /faq/ted_tedx.html
+    参与 & 联系: /faq/participating.html
 
 asset_pipeline:
   revisioning:

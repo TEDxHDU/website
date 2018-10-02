@@ -1,0 +1,20 @@
+.hola-var {
+  --hola-primary-color: rgb(230, 43, 30);
+}
+
+.hola-navbar-transparent~.hola-hero {
+  background: #111;
+}
+
+.logo img {
+  height: 68px;
+  transform: translate(-10px, 10px);
+  margin-right: -4rem;
+}
+
+.ihola-faq h4::before {
+  background: rgb(230, 43, 30);
+}
+.ihola-faq blockquote::before {
+  background: rgb(230, 43, 30);
+}
