@@ -4,7 +4,7 @@ date: 2018-10-01 20:00
 tags:
 ---
 
-## 您好，这里是TEDxHDU
+## 您好，这里是 TEDxHDU
 
 ### 什么是 TED
 
@@ -66,6 +66,6 @@ TEDxHDU 是 TEDx 在杭州电子科技大学的实践，由杭州电子科技大
 
 **你，准备好了吗**
 
-文稿：TEDxHDU志愿者
+文稿：TEDxHDU 志愿者
 
-排版：TEDxHDU志愿者
+排版：TEDxHDU 志愿者
