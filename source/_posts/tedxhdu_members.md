@@ -78,7 +78,8 @@ Keep your eyes open
 欢迎向我们分享你的观点
 说出你的所见所想
 成为 TEDxHDU 的讲者
-讲者报名通道
+讲者报名通道http://tedxhdu1.mikecrm.com/rgBauOD
+
 
 ◆
 如果你是一个团队
