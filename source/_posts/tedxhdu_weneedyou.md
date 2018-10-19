@@ -40,7 +40,7 @@ tags:
 ---
 
 若您有相关合作资源，有任何合作意向，请联系我们：tedxhdu.partners@ihola.one
-我们会在本次大会上鸣谢此次与我们合作的团队，并且在活动中分发宣传资料，定制现场展视互动区域，同时该团队会在我们的官网上出现。
+我们会在本次大会上鸣谢此次与我们合作的团队，并且在活动中分发宣传资料，定制现场展示互动区域，同时该团队会在我们的官网上出现。
 
 如果你们也是欣赏并热爱 TED 文化的团队
 你们也拥有独立思想追求创新
@@ -48,8 +48,12 @@ tags:
 共同创造传播价值思想的 TEDxHDU
 
 其他信息
-讲者注册通道：http://TEDxHDU1.mikecrm.com/rgBauOD
-TEDxHDU 官网：https://www.ted.com/tedx/events/31541 
+讲者注册通道：
+
+http://TEDxHDU1.mikecrm.com/rgBauOD
+TEDxHDU 官网：
+
+https://www.ted.com/tedx/events/31541 
 
 
  于界限之外
