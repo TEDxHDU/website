@@ -6,6 +6,12 @@ tags:
 
 ## 界限之外 宣传片
 
+**宣传片**
+
+<!--more-->
+
+[宣传片链接](https://v.qq.com/x/page/x07823x0fcj.html)
+
 ### 关于界限之外
 
 关于界限之外，我们有着很多的思考。
@@ -28,7 +34,7 @@ It is also invisible, like the traditional boundary and fixed way of thinking.
 
 Some of the “scope” will “scope” the ways we run out of the garden and the leaps of our minds.
 
-<!--more-->
+
 
 
 ### 突破
