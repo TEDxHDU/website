@@ -4,8 +4,11 @@
 - name: 阮英剑 / Yingjian Ruan
   job: 协助策展人 / Co-organizer
   description: 
+- name: 金彬洁 / Binjie Jin
+  job: 会务组 / Experience Team
+  description:
 - name: 寿焱杰 / Yanjie Shou
-  job: 会务负责人 / Experience Manager
+  job: 会务组 / Experience Team
   description:
 - name: 陈佳蓓 / Jiabei Chen
   job: 会务组 / Experience Team
@@ -51,4 +54,7 @@
   description: 每天都是最好的自己。
 - name: 张致远 / Zhiyuan Zhang
   job: 讲者关系组 / Speaker Relationship Team
+  description:
+- name: 牟国华 / Guohua Mu
+  job: 会务组 / Experience Team
   description:
