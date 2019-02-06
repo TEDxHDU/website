@@ -1,4 +1,12 @@
-- name: TEDxHDU Conf 2018
+- name: TEDxHDU Conf 2019
+  short_name: 2019
+  type: conf
+  city: 浙江杭州
+  location: 
+  date: 2019-04-15
+  slogan: Out of Scope
+  slug: conf2019
+- name: TEDxHDU Conf 2018（因故推迟成为 Conf 2019）
   short_name: 2018
   type: conf
   city: 浙江杭州
