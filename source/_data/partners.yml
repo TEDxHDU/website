@@ -3,7 +3,7 @@
   img: /static/images/hdu.png
 - name: ¡Hola! 青少年活动
   url: https://ihola.one
-  img: https://ihola.one/static/images/hola.svg
+  img: /static/images/hola.svg
 - name: 杭电助手
   url: \#
   img: /static/images/hduhelp.png
